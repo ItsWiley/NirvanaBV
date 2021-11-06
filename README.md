@@ -1,7 +1,6 @@
 # NirvanaBV
 
 ![cfb1](https://cf.way2muchnoise.eu/full_443402_downloads.svg)
-![cfb2](https://cf.way2muchnoise.eu/mods/short_jei.svg)
 
 
 [Nirvana - Better Vanilla on Curseforge](https://www.curseforge.com/minecraft/modpacks/nirvana-vanilla)
