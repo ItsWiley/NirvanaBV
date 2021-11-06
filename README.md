@@ -3,7 +3,7 @@
 ![cfb1](https://cf.way2muchnoise.eu/full_443402_downloads.svg)
 
 
-[Nirvana - Better Vanilla on Curseforge](https://www.curseforge.com/minecraft/modpacks/nirvana-vanilla)
+[Curseforge Page](https://www.curseforge.com/minecraft/modpacks/nirvana-vanilla)
 
 [Wiki](https://github.com/jwiley17/NirvanaBV/wiki)
 
