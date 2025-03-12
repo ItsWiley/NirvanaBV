@@ -1,0 +1,53 @@
+/*
+* LittleLink Button Styles
+* https://littlelink.io
+* Free to use under the MIT license
+* http://www.opensource.org/licenses/mit-license.php
+*/
+
+/* Brand Button Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Only include brand-specific button styling here */
+.button,button {
+  color:var(--button-text,#000000);
+  background-color:var(--button-background,transparent);
+	border:var(--button-border,none);
+	transition:filter 0.2s ease,transform 0.2s ease;
+}
+
+/* Global Button Hover Effect
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button:hover,button:hover {
+	filter:brightness(90%);
+	transform:translateY(-1px);
+}
+
+/* Button Icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.icon {
+	filter:var(--icon-filter,none);
+}
+
+/* Brand-Specific Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Default */
+.button.button-default {
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
+}
+
+/* Download on Curseforge */
+.button-download-on-curseforge {
+    --button-text: #ffffff;
+    --button-background: #fa734f;
+    --button-border: 1px solid #000000;
+}
+
+/* Download on Modrinth */
+.button-download-on-modrinth {
+    --button-text: #000000;
+    --button-background: #40d971;
+    --button-border: 1px solid #000000;
+}
